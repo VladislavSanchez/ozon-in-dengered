@@ -33,6 +33,10 @@ nav {
     background-color: #47a1e2;
 }
 
+nav button {
+    display: none;
+}
+
 .nav__list {
     display: flex;
     justify-content: space-around;
@@ -205,6 +209,7 @@ footer li:hover {
 
     nav button {
         position: fixed;
+        display: block;
         top: 5vw;
         right: 5vw;
         padding: 5vw;
