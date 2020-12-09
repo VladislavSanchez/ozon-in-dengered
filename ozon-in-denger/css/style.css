@@ -205,8 +205,8 @@ footer li:hover {
 
     nav button {
         position: fixed;
-        top: 1vw;
-        right: 1vw;
+        top: 5vw;
+        right: 5vw;
         padding: 5vw;
         background-color: rgba(0, 50, 50, 0);
         background-image: url("../img/burger.png");
